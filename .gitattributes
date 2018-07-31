@@ -1,4 +1,7 @@
 *        text=auto
 
 *.c      text diff=cpp
-
+*.md     text
+*.pkb    text
+*.pks    text
+*.sql    text
