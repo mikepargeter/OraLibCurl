@@ -4,6 +4,8 @@ An Oracle wrapper for libcurl.
 
 ## Installation
 
+Install a recent version of libcurl, at least 7.50.
+
 Allow Oracle to use external procedures, edit `$ORACLE_HOME/hs/admin/extproc.ora`:
 
 ```
